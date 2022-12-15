@@ -33,7 +33,9 @@ Keys added:
 * 'flesch', 'dale_chall': readability indices (>20 words or more)
 * 'okay': keep?
 
+## Data polishing
 
+Data was cleaned as seen in [data_polishing.ipynb](data_polishing.ipynb).
 
 ## Methodology
 
