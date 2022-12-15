@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1024" height="1024" viewBox="0 0 1024 1024" xml:space="preserve">
+<desc>Created @ WordClouds.co.uk</desc>
+<defs><style type="text/css"> @import url(https://fonts.googleapis.com/css2?family=Raleway&amp;display=swap) </style></defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(255, 255, 255, 1)"></rect>
+<g transform="matrix(1 0 0 1 512 513)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="200" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-426.09" y="62.83" >fragment</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 506 412)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="100" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-253.45" y="31.41" >compound</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 525 672)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="200" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-416.29" y="62.83" >structure</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 484 325)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="200" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-437.43" y="62.83" >molecule</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 559 779)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="100" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-259.61" y="31.41" >submission</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 474 195)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="200" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-229.6" y="62.83" >dock</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 571 898)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="200" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-203.9" y="62.83" >bind</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 484 84)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="91.1622620492379" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-130.22" y="28.64" >ligand</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 205 828)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="65.69674753313623" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-160.39" y="20.64" >interaction</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 806 199)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="93.08822533196827" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-112.48" y="29.24" >bond</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 799 599)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="61.41682912706872" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-136.14" y="19.29" >hydrogen</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 196 773)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="68.69269041738347" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-109.27" y="21.58" >pocket</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 122 600)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="69.54867409859698" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-99.23" y="21.85" >based</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 814 101)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="147.22919316872222" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-182.37" y="46.25" >chain</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 858 413)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="56.49492296009109" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-91.89" y="17.75" >protein</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 203 905)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="112.98984592018218" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-163.29" y="35.49" >amide</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 629 832)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="47.93508614795607" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-94.87" y="15.06" >covalent</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 157 407)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="42.58518814037169" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-91.14" y="13.38" >synthesis</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 885 845)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="124.97361745717119" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-115.97" y="39.26" >pdb</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 178 100)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="95.87017229591214" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-156.39" y="30.12" >predict</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 172 249)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="50.503037191596576" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-77.39" y="15.87" >crystal</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 868 254)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="43.44117182158519" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-87.33" y="13.65" >enamine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 531 972)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="28.675453320652295" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-106.25" y="9.01" >crystallographic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 898 762)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="42.15719629976494" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-78.16" y="13.24" >inhibitor</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 163 213)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="38.94725749521431" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-79.94" y="12.23" >available</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 496 42)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="33.383363567326555" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-102.5" y="10.49" >non-covalent</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 156 177)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="32.955371726719804" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-91.63" y="10.35" >isoquinoline</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 645 265)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="32.955371726719804" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-84.99" y="10.35" >substituent</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 512 593)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="43.22717590128182" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-64.72" y="13.58" >model</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 616 453)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="33.811355407933306" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-70.62" y="10.62" >generate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 202 967)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="82.60242523710288" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-128.99" y="25.95" >screen</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 874 952)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="78.75049867164212" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-108.38" y="24.74" >target</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 198 450)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="32.0993880455063" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-65.24" y="10.08" >potential</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 702 975)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="38.94725749521431" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-62.97" y="12.23" >by-eye</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 531 133)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="24.395534914584786" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-79.68" y="7.66" >protein-ligand</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 465 266)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.745432922169172" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-69.28" y="9.34" >prediction</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 781 165)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="30.173424762775923" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-65.45" y="9.48" >analogue</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 90 696)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="31.02940844398942" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-63.11" y="9.75" >protease</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 200 148)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.531437001865797" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-69.16" y="9.28" >molecular</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 127 745)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="30.601416603382674" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-61.7" y="9.61" >warhead</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 302 48)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="31.02940844398942" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-56.29" y="9.75" >scaffold</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 450 827)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="34.23934724854006" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-49.55" y="10.76" >library</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 805 451)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="22.255575711551035" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-61.93" y="6.99" >applicability</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 373 457)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.967543073978035" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-59.31" y="7.53" >associated</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 844 899)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="30.81541252368605" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-50.47" y="9.68" >activity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 663 46)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="27.391477798832042" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-52.77" y="8.6" >nitrogen</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 156 864)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="28.03346555974217" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-53.03" y="8.81" >potency</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 540 680)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="42.79918406067507" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.74" y="13.44" >into</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 923 695)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.547665464876776" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-65.07" y="5.51" >pharmacophore</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 484 618)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.835698102449774" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-66.71" y="4.97" >energy-minimized</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 392 512)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="40.23123301703456" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.46" y="12.64" >site</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 594 341)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="31.02940844398942" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.65" y="9.75" >active</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 840 235)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.68762466791053" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-56.58" y="6.18" >combination</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 293 610)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.753547153674663" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-48.73" y="7.46" >acceptor</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 851 921)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.621702182146398" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-61.13" y="4.91" >chloroacetamide</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 509 742)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.403649146090277" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-56.76" y="5.78" >conformation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 120 58)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="51.78701271341683" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-88.66" y="16.27" >residue</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 559 207)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="26.10750227701179" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-38.83" y="8.2" >affinity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 304 269)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.325555313067913" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-47.17" y="7.33" >carbonyl</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 803 58)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.481742979112646" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-62.33" y="4.24" >pet-unk-29afea89-2</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 627 746)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.11561650851728" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-45.8" y="6.32" >additional</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 763 742)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="26.53549411761854" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-40.43" y="8.34" >merge</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 252 500)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="22.89756347246116" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-46.51" y="7.19" >combine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 952 512)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="24.395534914584786" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.47" y="7.66" >domain</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 284 587)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="21.827583870944284" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.76" y="6.86" >different</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 339 863)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="27.819469639438793" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-37.67" y="8.74" >series</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 358 747)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="22.683567552157786" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-44.07" y="7.13" >increase</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 428 193)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.531437001865797" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.25" y="9.28" >drug</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 796 41)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.477685863359902" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-48.65" y="5.18" >replacement</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 951 538)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.617645066393653" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-43.98" y="5.85" >properties</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 73 648)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.04969402275315" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-45.99" y="5.04" >sulfonamide</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 400 640)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="33.59735948762993" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.91" y="10.55" >link</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 621 583)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.477685863359902" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-45.2" y="5.18" >metabolism</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 589 317)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.967543073978035" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.38" y="7.53" >seesar</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 196 805)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.481742979112646" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-50.14" y="4.24" >structure-based</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 853 792)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="22.683567552157786" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.51" y="7.13" >further</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 954 353)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.403649146090277" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.03" y="5.78" >chemistry</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 710 537)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.3336695445734" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-38.45" y="5.45" >algorithm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 948 450)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.54360834912403" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.82" y="6.45" >interact</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 565 187)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.971600189730783" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.11" y="6.59" >analog</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 951 488)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.909734819719397" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-43.48" y="4.37" >consideration</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 948 624)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.32" y="4.57" >modification</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 183 659)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.189653225786902" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.39" y="5.71" >software</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 63 543)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.68762466791053" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.32" y="6.18" >module</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 62 507)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.971600189730783" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.88" y="6.59" >h-bond</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 304 195)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.83164098669703" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.41" y="5.92" >mmff94</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 490 344)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.691681783663277" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.61" y="5.24" >approach</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 66 457)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.045636907000404" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.56" y="5.98" >perform</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 293 337)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.975657305483526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.91" y="5.65" >inspired</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 443 846)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.26774705880927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-38.87" y="4.17" >intermediate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 397 140)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.909734819719397" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-37.48" y="4.37" >substitution</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 941 377)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.835698102449774" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.45" y="4.97" >functional</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 395 537)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="21.399592030337534" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.47" y="6.72" >stage</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 506 452)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.539551233371288" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.03" y="7.39" >mpro</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 67 443)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.76" y="4.57" >calculation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 78 631)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.407706261843025" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-34.62" y="4.84" >derivative</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 462 318)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.68762466791053" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.13" y="6.18" >cluster</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 730 239)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.477685863359902" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.64" y="5.18" >pyridine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 81 672)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.477685863359902" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.27" y="5.18" >aromatic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 706 907)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.547665464876776" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.59" y="5.51" >replace</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 385 964)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.909734819719397" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.46" y="4.37" >piperazine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 965 637)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.19371034153965" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.1" y="4.77" >autodock</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 72 525)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.12" y="4.71" >rotatable</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 293 322)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.263689943056526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.71" y="5.11" >attempt</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 403 668)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.68762466791053" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.08" y="6.18" >probe</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 253 747)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.65" y="4.44" >backbone</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 512 553)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.403649146090277" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.52" y="5.78" >szybki</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 434 894)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.04969402275315" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.24" y="5.04" >improve</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 863 319)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.3" y="4.71" >included</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 204 274)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.489857210618137" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-47.47" y="2.35" >rosettaligandinterfacescore</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 73 487)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.621702182146398" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.09" y="4.91" >cysteine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 966 587)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.337726660326148" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.6" y="4.5" >structural</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 683 108)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.18" y="4.03" >calculated</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 964 599)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.77" y="4.44" >observed</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 428 913)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.85" y="4.57" >diamond</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 66 568)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.72" y="4.57" >chemical</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 285 136)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.37" y="3.36" >automatically</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 392 585)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.337726660326148" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.52" y="4.5" >program</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 965 389)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.411763377595769" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.19" y="3.9" >synthesize</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 512 513)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.403649146090277" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.12" y="5.78" >linker</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 884 659)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.835698102449774" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.86" y="4.97" >scoring</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 431 925)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.909734819719397" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.8" y="4.37" >minimize</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 951 294)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="39.37524933582106" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-40.16" y="12.37" >filter</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 849 811)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.485800094865391" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.54" y="3.29" >hydrophobic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 634 617)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.26774705880927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.78" y="4.17" >methoxy</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 192 432)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.127787855775518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.51" y="3.5" >commercial</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 521 282)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.03" y="3.76" >medicinal</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 954 904)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="44.08315958249532" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.41" y="13.85" >vina</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 521 702)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.695738899416021" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.93" y="4.3" >function</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 702 500)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.053751138505895" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.23" y="4.1" >complex</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 843 738)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.913791935472142" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.91" y="3.43" >enantiomer</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 582 512)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.769775616685644" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.16" y="3.7" >database</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 713 450)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.71" y="3.76" >although</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 405 682)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.341783776078893" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.2" y="3.56" >identified</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 583 548)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.691681783663277" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.92" y="5.24" >donor</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 694 652)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.695738899416021" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.58" y="4.3" >account</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 528 383)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.769775616685644" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.68" y="3.7" >synthetic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 337 732)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.411763377595769" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.2" y="3.9" >sars-cov-2</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 463 360)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.909734819719397" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.4" y="4.37" >methyl</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 950 551)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.489857210618137" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.53" y="2.35" >moleculecomplexity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 71 725)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="27.819469639438793" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.15" y="8.74" >potent</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 379 983)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="28.247461480045544" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-40.75" y="8.87" >obtain</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 581 525)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.44" y="4.03" >number</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 946 43)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="25.251518595798288" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-43.89" y="7.93" >explore</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 637 596)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.481742979112646" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.03" y="4.24" >reduce</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 398 701)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.913791935472142" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.96" y="3.43" >selection</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 958 226)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.111559392764537" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-39.47" y="7.26" >glidesp</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 82 139)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="26.10750227701179" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.66" y="8.2" >moiety</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 939 463)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.559836812135014" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.9" y="2.69" >conformational</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 588 561)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.695738899416021" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.61" y="4.3" >bound</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 955 328)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="28.675453320652295" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.75" y="9.01" >nitrile</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 716 462)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.62981641365189" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.11" y="3.03" >minimization</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 868 353)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.633873529404635" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.29" y="2.08" >jag-ucb-a3ef7265-20</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 780 622)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.489857210618137" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-34.4" y="2.35" >rsconvol_score_raw</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 833 437)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.061865370011386" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.85" y="2.22" >ada-ucb-6c2cb422-1</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 58 260)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="44.51115142310207" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.7" y="13.98" >sar</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 343 575)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.053751138505895" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.85" y="4.1" >attach</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 273 537)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.62981641365189" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.68" y="3.03" >desolvation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 967 720)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="38.09127381400081" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.61" y="11.97" >per</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 690 283)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.917849051224887" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.28" y="2.49" >representative</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 953 185)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.971600189730783" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-38.16" y="6.59" >libraries</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 956 206)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.971600189730783" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.54" y="6.59" >because</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 66 868)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="22.255575711551035" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-34.68" y="6.99" >glu166</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 75 196)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.971600189730783" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-40.15" y="6.59" >propose</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 699 664)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.69" y="2.82" >binding-site</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 950 164)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="24.823526755191537" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.35" y="7.8" >virtual</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 195 38)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.25963282730378" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-44.02" y="6.05" >substitute</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 575 117)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.991885768494509" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.13" y="1.88" >mat-pos-4223bc15-23</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 58 765)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.103445161259046" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.73" y="9.14" >data</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 690 351)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.05780825425864" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.88" y="3.16" >collection</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 810 987)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.11967362427003" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-44.97" y="5.38" >lipophilicity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 484 577)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.489857210618137" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.2" y="2.35" >corresponding</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 693 311)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="35.5233227703603" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.48" y="11.16" >doi</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 588 537)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.08" y="3.76" >amine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 506 532)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.06" y="3.36" >extend</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 626 664)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.31" y="3.23" >stability</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 518 653)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.201824573045139" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.31" y="2.89" >metabolic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 581 501)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.201824573045139" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.84" y="2.89" >geometry</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 698 550)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.773832732438388" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.11" y="2.76" >fragalysis</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 702 642)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.06" y="3.23" >variation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 334 673)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.81" y="3.09" >rationale</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 327 469)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.62981641365189" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.88" y="3.03" >treweren</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 629 710)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.131844971528263" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.94" y="2.55" >acrylamide</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 580 303)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.88" y="3.23" >penalty</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 698 695)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="26.96348595822529" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.01" y="8.47" >6lu7</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 630 606)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.773832732438388" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.21" y="2.76" >according</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 401 655)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.135902087281008" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.17" y="1.61" >mat-pos-b3e365b9-1</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 593 924)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="30.81541252368605" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.52" y="9.68" >mol</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 630 675)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.24" y="2.82" >inspirator</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 382 622)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.131844971528263" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.76" y="2.55" >alternative</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 466 634)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.62981641365189" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.53" y="3.03" >analysis</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 690 674)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.2758612903147615" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.58" y="2.29" >optimization</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 937 990)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.971600189730783" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.09" y="6.59" >centre</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 461 610)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.135902087281008" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.97" y="1.61" >mat-pos-dc2604c4-1</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 812 526)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="29.959428842472548" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.2" y="9.41" >aim</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 327 708)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="26.10750227701179" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.4" y="8.2" >kcal</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 406 286)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.2758612903147615" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.76" y="2.29" >coordinates</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 69 37)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.975657305483526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-33.59" y="5.65" >addition</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 512 992)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-45.63" y="4.71" >rs_score_raw</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 969 660)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="26.53549411761854" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.35" y="8.34" >core</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 588 360)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.131844971528263" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.87" y="2.55" >threshold</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 62 232)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.25963282730378" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.7" y="6.05" >feature</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 632 647)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.02" y="2.82" >enhance</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 700 487)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.559836812135014" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.95" y="2.69" >optimize</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 626 700)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.05780825425864" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.3" y="3.16" >consist</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 521 541)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.131844971528263" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.94" y="2.55" >inhibition</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 969 563)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="24.395534914584786" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.4" y="7.66" >x-ray</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 289 456)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="24.395534914584786" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.59" y="7.66" >acid</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 682 342)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.991885768494509" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.71" y="1.88" >aminopyridine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 637 476)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.15" y="2.82" >antiviral</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 334 657)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.131844971528263" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.67" y="2.55" >similarity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 572 616)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.05780825425864" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.92" y="3.16" >scored</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 686 630)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.11" y="3.09" >around</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 633 684)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.703853130921512" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.71" y="2.42" >favorable</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 686 363)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.773832732438388" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.21" y="2.76" >covid-19</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 337 416)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.95" y="3.09" >carbon</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 275 551)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.489857210618137" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.39" y="2.35" >quinolone</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 685 333)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.061865370011386" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.15" y="2.22" >pyrimidine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 336 476)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.703853130921512" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.35" y="2.42" >prepared</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 66 158)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-38.68" y="3.63" >computational</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 632 379)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.773832732438388" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.36" y="2.76" >derived</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 334 688)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.2758612903147615" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.37" y="2.29" >evaluation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 294 354)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.847869449708011" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.17" y="2.15" >incorporate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 403 298)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.131844971528263" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.5" y="2.55" >multiple</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 818 562)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.539551233371288" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.25" y="7.39" >urea</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 581 570)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.41987760910126" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.59" y="2.02" >heterocycle</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 965 59)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.25963282730378" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.5" y="6.05" >combo</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 325 664)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.205881688797884" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.12" y="1.95" >environment</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 326 680)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.847869449708011" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.74" y="2.15" >chemscore</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 56 783)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.54360834912403" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.53" y="6.45" >assay</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 518 494)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.559836812135014" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.28" y="2.69" >another</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 692 621)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.2758612903147615" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.06" y="2.29" >approved</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 293 415)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.847869449708011" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.72" y="2.15" >candidate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 90 389)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-37.94" y="2.82" >fragment-growing</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 643 562)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.489857210618137" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.93" y="2.35" >tautomer</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 447 449)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.62981641365189" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.85" y="3.03" >known</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 749 475)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.39" y="2.82" >occupy</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 277 72)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32" y="4.57" >racemate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 350 380)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.559836812135014" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.86" y="2.69" >without</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 573 661)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.97" y="2.82" >version</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 288 599)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.847869449708011" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.29" y="2.15" >simulation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 649 733)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.41987760910126" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.26" y="2.02" >completed</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 960 475)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.83164098669703" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.54" y="5.92" >source</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 326 695)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.777889848191134" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.1" y="1.82" >placeholder</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 714 892)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.263689943056526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.48" y="5.11" >postera</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 615 992)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.68" y="4.03" >orientation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 468 728)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.345840891831639" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.53" y="2.62" >contact</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 484 244)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.489857210618137" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.78" y="2.35" >xdg_hyd</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 76 660)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.71" y="3.09" >quantum-based</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 311 214)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.975657305483526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.07" y="5.65" >profile</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 276 623)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.777889848191134" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.46" y="1.82" >appropriate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 623 655)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.633873529404635" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.77" y="2.08" >reference</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 431 224)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.971600189730783" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.04" y="6.59" >rank</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 627 280)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.847869449708011" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.24" y="2.15" >formation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 919 785)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.27" y="4.57" >benzene</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 815 724)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.407706261843025" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.56" y="4.84" >already</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 888 32)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.15" y="3.09" >fragmentation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 175 360)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.83164098669703" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.46" y="5.92" >retain</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 264 663)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.11561650851728" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.14" y="6.32" >logp</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 882 274)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.62" y="3.36" >electrophile</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 253 869)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.26774705880927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.34" y="4.17" >intended</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 328 723)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.703853130921512" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.29" y="2.42" >enzyme</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 493 415)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.847869449708011" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.1" y="2.15" >requiring</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 265 646)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.41987760910126" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.08" y="2.02" >sidechain</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 104 324)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.263689943056526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.8" y="5.11" >phenyl</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 487 153)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.96" y="4.44" >address</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 712 927)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="17.547665464876776" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.12" y="5.51" >within</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 54 475)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.61" y="4.03" >solubility</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 622 692)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.41987760910126" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.27" y="2.02" >extension</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 942 525)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.13" y="3.76" >expansion</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 961 612)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.32" y="3.63" >information</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 859 152)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.05" y="3.76" >anticipate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 818 91)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.26" y="4.57" >reaction</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 339 563)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.349898007584383" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.62" y="1.68" >application</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 596 893)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="18.83164098669703" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.69" y="5.92" >chiral</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 574 702)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.061865370011386" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.31" y="2.22" >network</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 178 377)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.68762466791053" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.01" y="6.18" >learn</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 970 799)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.67" y="4.71" >sulfone</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 347 286)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.135902087281008" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.54" y="1.61" >heterocyclic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 812 279)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.835698102449774" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.41" y="4.97" >couple</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 876 170)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.56" y="4.03" >adjacent</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 172 342)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.835698102449774" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.39" y="4.97" >taking</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 515 523)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.349898007584383" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.39" y="1.68" >partitioned</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 102 353)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.85" y="4.03" >catalytic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 431 883)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.46" y="4.57" >diverse</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 904 59)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.18" y="4.71" >x_0946</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 106 370)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.46" y="4.44" >overlap</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 518 373)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.847869449708011" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.84" y="2.15" >anthony</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 609 412)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.349898007584383" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.38" y="1.68" >significant</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 205 557)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.263689943056526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.04" y="5.11" >larger</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 60 426)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.27" y="3.63" >weizmann</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 379 125)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.695738899416021" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.21" y="4.3" >relative</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 176 314)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.695738899416021" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.46" y="4.3" >explicit</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 64 556)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-28.83" y="3.09" >substructure</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 971 413)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.01" y="4.71" >cys145</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 553 225)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="23.539551233371288" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.84" y="7.39" >reu</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 455 570)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="7.2758612903147615" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.51" y="2.29" >accept</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 816 575)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.55" y="4.03" >however</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 525 712)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.991885768494509" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.58" y="1.88" >reactivity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 599 944)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.695738899416021" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.39" y="4.3" >related</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 306 181)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.69" y="3.36" >piperidine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 293 307)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.11561650851728" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.35" y="6.32" >ic50</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 51 956)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.43" y="4.57" >x_0678</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 682 31)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.51" y="3.09" >consecutive</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 51 971)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.36" y="3.76" >modified</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 455 554)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="6.41987760910126" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.78" y="2.02" >reactive</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 264 32)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.34" y="3.23" >inspiration</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 107 342)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.09" y="3.63" >estimate</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 810 550)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.59" y="3.76" >moieties</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 119 273)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.58" y="3.63" >including</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 972 271)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.127787855775518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.91" y="3.5" >mapping</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 645 62)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.127787855775518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.65" y="3.5" >therefore</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 236 282)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.14" y="4.03" >agreed</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 212 513)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.52" y="4.71" >xlogp</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 686 97)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.06" y="3.23" >modelling</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 107 683)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.02" y="3.09" >accessible</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 812 499)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="19.68762466791053" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.9" y="6.18" >qsb</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 952 500)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.13" y="3.63" >research</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 967 743)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.75" y="4.03" >primary</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 515 843)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.263689943056526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.45" y="5.11" >chem</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 143 543)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.72" y="3.76" >parallel</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 252 855)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.07" y="3.36" >solvation</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 203 532)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.51" y="4.71" >xlogs</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 515 463)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="5.135902087281008" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.36" y="1.61" >university</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 650 855)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.407706261843025" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.44" y="4.84" >cyclic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 651 246)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.93" y="3.09" >imidazole</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 145 556)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.68" y="3.63" >highest</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 734 31)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.35" y="4.44" >aa-001</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 61 216)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.83975521820252" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.69" y="4.03" >chosen</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 968 400)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.45" y="3.76" >making</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 358 945)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.411763377595769" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.13" y="3.9" >project</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 808 391)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.5" y="2.82" >comparison</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 976 787)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.2" y="4.44" >aimon</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 195 390)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.48" y="3.63" >in-house</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 438 783)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="20.54360834912403" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.68" y="6.45" >ugi</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 142 519)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.99" y="4.71" >focus</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 584 815)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.31" y="3.36" >machine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 309 227)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.26" y="3.09" >shipment</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 868 308)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.04" y="3.09" >moonshot</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 956 437)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.3" y="3.09" >probably</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 261 694)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.6" y="3.36" >applied</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 590 955)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.85" y="3.09" >discovery</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 797 151)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.08" y="3.36" >promise</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 807 681)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.407706261843025" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.09" y="4.84" >brics</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 756 123)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.65" y="3.36" >michael</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 455 472)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="22.255575711551035" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.21" y="6.99" >fix</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 693 751)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.68" y="2.96" >bioactive</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 806 702)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.411763377595769" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.19" y="3.9" >inhibit</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 286 738)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.48" y="3.09" >stabilize</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 202 675)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.411763377595769" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.47" y="3.9" >binder</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 204 544)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.45" y="2.82" >aldehyde</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 689 815)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.3" y="2.82" >flexibility</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 146 568)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.61" y="4.44" >covid</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 852 343)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.41" y="3.63" >access</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 142 531)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.59" y="3.09" >peptide</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 142 507)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.26774705880927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.47" y="4.17" >rdock</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 262 679)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.41" y="2.82" >providing</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 261 710)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.27" y="3.23" >instead</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 170 326)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.19" y="2.82" >important</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 413 209)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.29" y="3.63" >lactam</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 142 494)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.411763377595769" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.15" y="3.9" >vector</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 587 906)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.11" y="3.63" >expert</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 653 160)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.62" y="4.57" >easy</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 656 151)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.33" y="2.82" >chromone</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 543 174)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.05" y="3.36" >overlay</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 746 266)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="12.411763377595769" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.8" y="3.9" >cavity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 747 153)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.03" y="3.23" >fluorine</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 235 374)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="15.407706261843025" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.99" y="4.84" >lock</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 962 649)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.47" y="2.82" >provided</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 808 659)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.26774705880927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.23" y="4.17" >delft</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 153 711)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.35" y="3.23" >sascore</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 484 862)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.87" y="3.63" >detail</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 109 312)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.93" y="3.09" >sulfonyl</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 681 194)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.94" y="3.23" >readily</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 205 735)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.82" y="3.23" >gln189</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 877 576)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.26774705880927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.5" y="4.17" >frank</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 643 232)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.979714421236274" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.03" y="4.71" >fred</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 147 232)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.19" y="3.23" >solvent</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 289 110)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.66" y="3.23" >upload</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 590 150)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.41" y="3.09" >capped</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 371 160)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.24" y="3.36" >his163</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 87 713)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.76" y="3.23" >manual</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 803 300)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.99" y="4.44" >tpsa</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 958 575)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.983771536989018" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.14" y="3.76" >amino</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 885 706)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.96" y="2.82" >openmm</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 487 952)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.19" y="3.36" >stable</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 862 365)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.07" y="3.09" >toxicity</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 750 347)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.551722580629523" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.12" y="4.57" >fold</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 434 936)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.29" y="3.36" >review</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 812 692)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.98" y="3.23" >various</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 964 426)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.68" y="2.82" >receptor</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 627 77)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.49" y="3.09" >pyridyl</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 677 126)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.04" y="3.09" >builder</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 422 175)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.127787855775518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.3" y="3.5" >chloro</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 753 133)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.127787855775518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.71" y="3.5" >visual</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 700 291)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.08" y="3.09" >assess</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 813 846)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.76" y="2.82" >covid19</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 438 741)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.555779696382269" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.75" y="3.63" >polar</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 343 96)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.05" y="2.82" >entropy</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 286 364)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.15" y="3.09" >indole</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 518 293)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="16.263689943056526" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.63" y="5.11" >cys</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 752 97)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.127787855775518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.6" y="3.5" >sulfur</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 948 365)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.2" y="2.82" >comput</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 730 787)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.46" y="3.36" >fluoro</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 340 64)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-16.02" y="3.09" >x_0434</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 243 164)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.54" y="3.09" >metric</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 45 400)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.95" y="3.09" >shown</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 796 344)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.63" y="3.09" >easier</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 196 774)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.54" y="2.82" >phenol</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 394 351)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.695738899416021" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.34" y="4.3" >due</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 396 337)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.11" y="3.23" >taken</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 252 386)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.21" y="2.82" >higher</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 744 574)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.99" y="3.09" >entire</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 350 363)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="11.127787855775518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.46" y="3.5" >seen</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 465 718)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.25" y="2.82" >slight</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 453 524)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.16" y="4.44" >bcl</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 814 669)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-14.22" y="3.09" >m-pro</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 490 425)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="14.123730740022772" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.96" y="4.44" >von</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 398 324)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.15" y="2.96" >lower</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 453 501)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.75" y="2.96" >6y84</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 457 537)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="13.26774705880927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.51" y="4.17" >lab</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 460 653)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.04" y="2.96" >basis</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 484 164)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.69" y="2.82" >mimic</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 418 383)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.25" y="2.96" >motif</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 457 489)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.98" y="2.82" >e166</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 588 488)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.71" y="2.82" >alkyl</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 640 488)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.03" y="2.96" >matt</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 431 438)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.92" y="3.23" >nice</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 395 488)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.95" y="2.82" >route</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 389 555)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.72" y="3.09" >virus</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 518 572)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-8.66" y="3.09" >5rf3</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 452 513)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.699796015168767" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-8.4" y="3.36" >10k</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 555 422)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="10.271804174562016" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-9.18" y="3.23" >dnn</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 558 412)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.843812333955265" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.3" y="3.09" >fda</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 432 424)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-7.14" y="2.96" >fep</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 564 632)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="8.987828652741763" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-8.76" y="2.82" >rcns</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 559 578)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.86" y="2.96" >etc</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 439 459)" style=""  >
+		<text xml:space="preserve" font-family="Raleway" font-size="9.415820493348514" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-6.36" y="2.96" >los</tspan></text>
+</g>
+</svg>
