@@ -34,6 +34,7 @@ Keys added:
 * 'okay': keep?
 
 ## Data polishing
+The submission info is from the [COVID moonshot submissions github repo](https://github.com/postera-ai/COVID_moonshot_submissions).
 
 Data was cleaned as seen in [data_polishing.ipynb](data_polishing.ipynb).
 
@@ -53,8 +54,6 @@ I was part of triaging team and used [Fragmenstein](https://github.com/matteofer
 Hence why in the parsed dataset the field `freq_crystallised (of made)` is more important than `freq_crystallised (of total)`.
 
 ## Dataset
-The submission info is from the [COVID moonshot submissions github repo](https://github.com/postera-ai/COVID_moonshot_submissions).
-
 Each submission was done as a set all sharing the same `rationale`. 
 So the table contains multiple rows/submitted compounds per submission. —say the CID `ANT-DIA-3c79be55-1` finishes in `-1`, that means that it is the first of the `ANT-DIA-3c79be55` set.
 Consequently to not get a bias by number of submission for the word-cloud I removed all bar one submission per group.
