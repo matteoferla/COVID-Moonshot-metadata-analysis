@@ -41,7 +41,7 @@ So to design a compound that will crystallise, the best word to use is clearly F
 
 ## Keyword based logical categorisation
 
-> See [categorisation notebook](initial_results/categorisation.ipynb)
+> See [categorisation notebook](categorisation.ipynb)
 
 I used a keyword based approach to categorise the submissions.
 This is as expected very very crude as the only word to go by for some,
@@ -51,7 +51,7 @@ The GitHub data is not undated (contains only 311 structures out of 500+)
 and lacks a submission timestamp.
 However, the order date can help to infer the wave the structures belong to.
 
-![time](initial_results/time_distribution.png)
+![time](time_distribution.png)
 
 This is important because the latter waves are elaborations,
 so not relevant to the initial categorisation.
