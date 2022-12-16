@@ -4,6 +4,9 @@ In the Postera COVID Discorse site users can write a rationale for their submiss
 ![wordcloud.jpg](wordcloud.jpg)
 (wordcloud generated via [wordclouds.com](https://www.wordclouds.com/))
 
+![unique-submitters.png](images/unique-submitters.png)
+![submission_groups](images/submission_groups.png)
+
 ## Data cleanup
 > TL;DR: see file [moonshot_submissions.min.csv](moonshot_submissions.min.csv),
 > or [moonshot_submissions.p](moonshot_submissions.p) as imported below.
