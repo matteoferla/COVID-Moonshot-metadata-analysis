@@ -1,0 +1,312 @@
+,N submissions (2020),N made (2020),N assayed (2020),N crystallised (2020),Mdn shipment date (2020),Mdn N words (2020),Gmean IC50 (2020),Min IC50 (2020),made-over-submitted % (2020),crystal-over-made % (2020),N IC50 ≤ 50 µM (2020),N IC50 ≤ 20 µM (2020),N IC50 ≤ 1 µM (2020),N IC50 ≤ 0.1 µM (2020),sub50-over-assayed % (2020)
+Aaron Morris,81,52,3,39,2021-04-16 00:00:00,17,37.800000000000004,37.8,64±5%,75±6%,1,0,0,0,33±27%
+DSi-Poised Library,40,34,1,34,2020-02-01 00:00:00,12,,,85±6%,100±0%,0,0,0,0,0±0%
+Nir London,276,182,53,22,2020-05-13 00:00:00,15,8.706607744209517,0.504,66±3%,12±2%,14,11,1,0,26±6%
+Matthew Robinson,374,115,51,20,2020-06-16 00:00:00,28,69.2555578088635,16.4,31±2%,17±4%,4,1,0,0,8±4%
+Ed Griffen,69,37,25,18,2020-07-29 00:00:00,20,31.70795629187495,0.261,54±6%,49±8%,9,5,2,0,36±10%
+Jan Hullaert,137,36,11,18,2020-06-10 00:00:00,18,29.27419017366767,8.3,26±4%,50±8%,6,4,0,0,55±15%
+Bart Lenselink,169,79,3,13,2020-04-27 00:00:00,36,46.24316165661684,35.7,47±4%,16±4%,1,0,0,0,33±27%
+Tryfon Zarganis,65,24,12,13,2020-04-17 00:00:00,52,26.875338537918996,3.63,37±6%,54±10%,7,4,0,0,58±14%
+Alpha Lee,91,39,32,10,2020-08-05 00:00:00,5,20.071229135678706,0.05,43±5%,26±7%,13,12,2,1,41±9%
+Benjamin Perry,82,34,18,9,2020-06-24 00:00:00,44,34.096341552549845,7.55,41±5%,26±8%,6,4,0,0,33±11%
+Daren Fearon,331,25,8,8,2020-04-27 00:00:00,12,15.51917381557127,2.75,8±1%,32±9%,4,3,0,0,50±18%
+Jag Heer,101,39,13,6,2020-06-24 00:00:00,14,97.3445979692734,81.7,39±5%,15±6%,0,0,0,0,0±0%
+Lori Ferrins,28,27,15,6,2020-07-21 00:00:00,89,,,96±4%,22±8%,0,0,0,0,0±0%
+Med-Chem team,72,23,12,6,2020-06-10 00:00:00,35,9.807114240838745,0.543,32±5%,26±9%,9,6,1,0,75±12%
+Nauris Narvaiss,83,20,3,4,2020-06-30 00:00:00,28,23.978105611266677,3.74,24±5%,20±9%,1,1,0,0,33±27%
+Gabriel Grand,66,10,1,4,2020-05-13 00:00:00,232,98.99999999999999,99.0,15±4%,40±15%,0,0,0,0,0±0%
+Duncan Miller,25,8,4,4,2020-05-16 12:00:00,32,15.162552091331275,10.6,32±9%,50±18%,3,3,0,0,75±22%
+Peter Kenny,14,4,4,4,2020-08-19 00:00:00,116,9.735245866285231,1.27,29±12%,100±0%,3,3,0,0,75±22%
+Bruce Lefker,13,5,2,3,2020-07-14 00:00:00,20,7.780000000000001,7.78,38±13%,60±22%,1,1,0,0,50±35%
+Warren Thompson,231,35,8,2,2020-04-27 00:00:00,79,30.427055979214817,14.2,15±2%,6±4%,3,2,0,0,38±17%
+Eric Jnoff,67,6,2,2,2020-06-24 00:00:00,14,6.499230723708767,1.1,9±3%,33±19%,2,1,0,0,100±0%
+Michal K,59,5,5,2,2020-09-01 00:00:00,29,88.33491123943544,54.6,8±4%,40±22%,0,0,0,0,0±0%
+David Briggs,71,3,3,2,2020-05-26 00:00:00,12,10.877817581469433,0.466,4±2%,67±27%,2,1,1,0,67±27%
+Daniel Zaidman,10,3,3,2,,87,2.17,2.17,30±14%,67±27%,1,1,0,0,33±27%
+Jordi JuarezJimenez,46,2,2,2,2020-05-26 00:00:00,94,3.0599999999999996,3.06,4±3%,100±0%,1,1,0,0,50±35%
+Adam Nelson,12,2,0,2,2020-06-20 00:00:00,20,,,17±11%,100±0%,0,0,0,0,nan±nan%
+Adam Smalley,11,2,2,2,2020-07-11 00:00:00,7,0.728,0.728,18±12%,100±0%,1,1,1,0,50±35%
+Viromics githubsubmission,3,2,0,2,2021-04-16 00:00:00,3102,,,67±27%,100±0%,0,0,0,0,nan±nan%
+John Spencer,155,19,5,1,2020-05-07 00:00:00,40,,,12±3%,5±5%,0,0,0,0,0±0%
+Anna Cederbalk,10,7,2,1,2020-06-24 00:00:00,172,,,70±14%,14±13%,0,0,0,0,0±0%
+Álvaro Lorente Macías,48,6,1,1,2020-06-03 12:00:00,81,,,12±5%,17±15%,0,0,0,0,0±0%
+Anthony Sama,41,5,0,1,2020-05-20 00:00:00,13,,,12±5%,20±18%,0,0,0,0,nan±nan%
+Peter Brown,46,3,0,1,2020-05-07 00:00:00,3,,,7±4%,33±27%,0,0,0,0,nan±nan%
+Alexander Minges,13,3,0,1,2020-04-17 00:00:00,0,,,23±12%,33±27%,0,0,0,0,nan±nan%
+Gerard Pujadas,7,3,0,1,2020-04-09 00:00:00,508,,,43±19%,33±27%,0,0,0,0,nan±nan%
+Vladas Oleinikovas,7,3,2,1,2020-07-14 00:00:00,5,99.49999999999997,99.5,43±19%,33±27%,0,0,0,0,0±0%
+Simon Williams,13,2,1,1,2020-05-16 12:00:00,43,1.98,1.98,15±10%,50±35%,1,1,0,0,100±0%
+Tobias Grabe,7,2,0,1,2020-05-13 12:00:00,28,,,29±17%,50±35%,0,0,0,0,nan±nan%
+Steven Verhelst,7,2,0,1,2020-05-23 00:00:00,77,,,29±17%,50±35%,0,0,0,0,nan±nan%
+Daniel Flaherty,7,1,0,1,2020-05-07 00:00:00,6,,,14±13%,100±0%,0,0,0,0,nan±nan%
+Aaron Keeley,1,1,1,1,2020-09-01 00:00:00,120,,,100±0%,100±0%,0,0,0,0,0±0%
+Gianfranco Lopopolo,84,17,3,0,2020-05-07 00:00:00,49,13.781133639321716,4.35,20±4%,0±0%,3,1,0,0,100±0%
+Chris De Graaf,101,13,2,0,2020-05-13 00:00:00,71,30.76068919904104,24.2,13±3%,0±0%,2,0,0,0,100±0%
+Juan Salamanca Viloria,19,12,12,0,2020-09-01 00:00:00,233,99.49999999999997,99.5,63±11%,0±0%,0,0,0,0,0±0%
+Comp Chem Team,18,8,7,0,2020-07-14 00:00:00,18,,,44±12%,0±0%,0,0,0,0,0±0%
+Rodolfo Do Couto Maia,9,7,1,0,2020-06-30 00:00:00,72,,,78±14%,0±0%,0,0,0,0,0±0%
+Vijay Shahani,13,6,0,0,2020-04-27 00:00:00,526,,,46±14%,0±0%,0,0,0,0,nan±nan%
+Joost Uitdehaag,18,5,0,0,2020-05-13 00:00:00,65,,,28±11%,0±0%,0,0,0,0,nan±nan%
+Alexander Metz,9,5,0,0,2020-04-09 00:00:00,165,,,56±17%,0±0%,0,0,0,0,nan±nan%
+Agnieszka Bronowska,46,4,1,0,2020-06-02 12:00:00,6,6.679999999999999,6.68,9±4%,0±0%,1,1,0,0,100±0%
+Kusuri Murakumo,25,4,0,0,2020-06-01 00:00:00,486,,,16±7%,0±0%,0,0,0,0,nan±nan%
+Ian Craig,17,4,0,0,2020-06-24 00:00:00,55,,,24±10%,0±0%,0,0,0,0,nan±nan%
+Benjamin Merget,17,4,2,0,2020-07-08 00:00:00,55,,,24±10%,0±0%,0,0,0,0,0±0%
+Erik Gilberg,6,4,2,0,2020-06-24 00:00:00,111,,,67±19%,0±0%,0,0,0,0,0±0%
+Nimesh Mistry,195,3,0,0,2020-06-01 00:00:00,26,,,2±1%,0±0%,0,0,0,0,nan±nan%
+Tamas Szommer,41,3,3,0,2020-05-26 00:00:00,57,40.20000000000001,40.2,7±4%,0±0%,1,0,0,0,33±27%
+Mihaela Smilova,35,3,1,0,2020-05-13 00:00:00,31,2.72,2.72,9±5%,0±0%,1,1,0,0,100±0%
+John Chodera,25,3,1,0,2020-04-09 00:00:00,37,,,12±6%,0±0%,0,0,0,0,0±0%
+Stuart Ward,19,3,3,0,2020-06-16 00:00:00,39,8.608135686662935,3.8,16±8%,0±0%,2,2,0,0,67±27%
+Anthony Aimon,18,3,0,0,2020-04-17 00:00:00,36,,,17±9%,0±0%,0,0,0,0,nan±nan%
+Franca Klingler,13,3,0,0,2020-05-26 00:00:00,383,,,23±12%,0±0%,0,0,0,0,nan±nan%
+Renato Freitas,6,3,0,0,2020-05-26 00:00:00,56,,,50±20%,0±0%,0,0,0,0,nan±nan%
+Jonas Verhellen,144,2,0,0,2020-04-17 00:00:00,58,,,1±1%,0±0%,0,0,0,0,nan±nan%
+Marcel Jaspars,20,2,2,0,,319,,,10±7%,0±0%,0,0,0,0,0±0%
+Austin Clyde,18,2,0,0,2020-06-16 12:00:00,65,,,11±7%,0±0%,0,0,0,0,nan±nan%
+Patrick Killoran,17,2,0,0,2020-04-13 00:00:00,12,,,12±8%,0±0%,0,0,0,0,nan±nan%
+Jarryl D,14,2,0,0,2020-06-02 12:00:00,190,,,14±9%,0±0%,0,0,0,0,nan±nan%
+Arindam Talukdar,66,1,0,0,2020-07-08 00:00:00,30,,,2±2%,0±0%,0,0,0,0,nan±nan%
+William Mccorkindale,55,1,1,0,2020-08-05 00:00:00,11,99.49999999999997,99.5,2±2%,0±0%,0,0,0,0,0±0%
+Jarvist Moore Frost,50,1,0,0,2020-05-20 00:00:00,366,,,2±2%,0±0%,0,0,0,0,nan±nan%
+Nicholas Kindon,37,1,0,0,2020-05-20 00:00:00,80,,,3±3%,0±0%,0,0,0,0,nan±nan%
+Ruth Brenk,27,1,1,0,2020-04-27 00:00:00,570,78.50000000000003,78.5,4±4%,0±0%,0,0,0,0,0±0%
+Indira Sen,27,1,0,0,2020-05-20 00:00:00,24,,,4±4%,0±0%,0,0,0,0,nan±nan%
+Kristijan Vukovic,25,1,0,0,2021-05-26 00:00:00,163,,,4±4%,0±0%,0,0,0,0,nan±nan%
+Rainer Wilcken,19,1,0,0,2020-05-26 00:00:00,72,,,5±5%,0±0%,0,0,0,0,nan±nan%
+Swarnendu Sasmal,16,1,0,0,2020-05-20 00:00:00,4,,,6±6%,0±0%,0,0,0,0,nan±nan%
+Kim Tai Tran,16,1,0,0,2020-04-27 00:00:00,34,,,6±6%,0±0%,0,0,0,0,nan±nan%
+Casper Steinmann,14,1,0,0,2020-06-30 00:00:00,211,,,7±7%,0±0%,0,0,0,0,nan±nan%
+Paul Brear,13,1,1,0,2020-05-13 00:00:00,9,1.89,1.89,8±7%,0±0%,1,1,0,0,100±0%
+Faraz Shaikh,10,1,0,0,2020-06-01 00:00:00,0,,,10±9%,0±0%,0,0,0,0,nan±nan%
+Martin Mcphillie,7,1,0,0,2020-04-09 00:00:00,82,,,14±13%,0±0%,0,0,0,0,nan±nan%
+Neha Rana,6,1,1,0,2020-05-13 00:00:00,220,37.400000000000006,37.4,17±15%,0±0%,1,0,0,0,100±0%
+Faraz Mohammadali Shaikh,6,1,0,0,2020-05-26 00:00:00,163,,,17±15%,0±0%,0,0,0,0,nan±nan%
+Luis Antunes,6,1,0,0,2020-05-26 00:00:00,314,,,17±15%,0±0%,0,0,0,0,nan±nan%
+Hannah Stewart,4,1,0,0,2020-04-17 00:00:00,31,,,25±22%,0±0%,0,0,0,0,nan±nan%
+Serillon Dylan,4,1,0,0,2020-05-13 00:00:00,71,,,25±22%,0±0%,0,0,0,0,nan±nan%
+Tomas Vojkovsky,3,1,0,0,2020-04-09 00:00:00,98,,,33±27%,0±0%,0,0,0,0,nan±nan%
+Trippier Lab,3,1,0,0,2020-04-27 00:00:00,7,,,33±27%,0±0%,0,0,0,0,nan±nan%
+Antonio Fernandez,3,1,0,0,2020-05-20 00:00:00,14,,,33±27%,0±0%,0,0,0,0,nan±nan%
+Anton Hamann,3,1,0,0,2020-05-26 00:00:00,85,,,33±27%,0±0%,0,0,0,0,nan±nan%
+Tim Rooney,2,1,0,0,2020-06-30 00:00:00,49,,,50±35%,0±0%,0,0,0,0,nan±nan%
+Gabriel NavarreteVazquez,2,1,0,0,2020-05-13 00:00:00,65,,,50±35%,0±0%,0,0,0,0,nan±nan%
+Sadit Joarder,312,0,0,0,,16,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Njabulo Gumede,131,0,0,0,,7,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Keith Davies,124,0,0,0,,111,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Benjamin Brown,124,0,0,0,,471,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sidney Elmer,93,0,0,0,,153,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Abintha SATEC,88,0,0,0,,6,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+anonymous,83,0,0,0,,2,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Bruce Milne,67,0,0,0,,294,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Vidya Desai,54,0,0,0,,48,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Marcos Santana,50,0,0,0,,68,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sally Mcgrath,43,0,0,0,,49,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ashvethaa Rameshkumar,40,0,0,0,,3,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Will Poole,39,0,0,0,,7,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Lynda Brown,36,0,0,0,,261,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Tetiana Matviyuk,36,0,0,0,,42,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Rafał Madaj,34,0,0,0,,18,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Charlie Nichols,33,0,0,0,,226,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Arijit Roy,33,0,0,0,,70,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ahnaf Khan,31,0,0,0,,6,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ralph Robinson,30,0,0,0,,31,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+David Mann,30,0,0,0,,25,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Thomas Baikstis,30,0,0,0,,10,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Yoishik Rakshit,25,0,0,0,,3,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sean Mckenna,21,0,0,0,,15,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Doug Orsi,20,0,0,0,,1,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Daniel Cox,20,0,0,0,,107,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mher FAST,20,0,0,0,,2,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Simon Wheeler,19,0,0,0,,23,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sandeep Reddy Kandukuri,18,0,0,0,,3,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Paul Gehrtz,18,0,0,0,,24,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Amit Vernekar,16,0,0,0,,102,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Huber Simon,16,0,0,0,,86,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jagadeesh Prathap Kilaru,15,0,0,0,,70,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Janina Sprenger,14,0,0,0,,619,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mussa Quareshy,14,0,0,0,,372,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Selena and Mark University of Leeds,13,0,0,0,,9,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Bogdan Zagribelnyy,13,0,0,0,,219,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Vikas Sikervar,13,0,0,0,,257,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Liz Morris,13,0,0,0,,9,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Robert Quinlan,12,0,0,0,,96,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mark Pickworth,12,0,0,0,,238,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ho Leung Ng,12,0,0,0,,10,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+K Takahashi,12,0,0,0,,12,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+David Benzies,12,0,0,0,,45,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Harriet StanwayGordon,12,0,0,0,,39,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Rafat Kabir,12,0,0,0,,6,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Olexandr Isayev,11,0,0,0,,52,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ravikumar Ramlu Vidule,11,0,0,0,,35,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Yun Lyna Luo,11,0,0,0,,963,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+MElizabeth Sobhia,10,0,0,0,,81,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Lynda University of Southampton,10,0,0,0,,262,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mangala Phadte,10,0,0,0,,71,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Keith Andrews,10,0,0,0,,77,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Vamsi Krishna Gurram,10,0,0,0,,260,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Davide Cazzola,10,0,0,0,,12,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Emiel Dobbelaar,9,0,0,0,,562,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Volkamer Lab,9,0,0,0,,166,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jokin Carrillo Arregui,9,0,0,0,,7,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Selena Mark,9,0,0,0,,63,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Avinash Punekar,9,0,0,0,,9,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Davide Sabbadin,9,0,0,0,,798,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Alice Douangamath,9,0,0,0,,24,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ramya Rajan,9,0,0,0,,116,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Nelson Wedin,8,0,0,0,,159,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Rick Argonne,8,0,0,0,,16,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Matthew Selby,8,0,0,0,,7,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+INSCoV,8,0,0,0,,221,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Scott Henderson,8,0,0,0,,796,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Robert Glen,8,0,0,0,,402,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Micael Rodrigues Cunha,8,0,0,0,,75,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Steffen Glöckner,8,0,0,0,,40,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Wilian Cortopassi,7,0,0,0,,288,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Chase Smith,7,0,0,0,,227,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Stefan Siemann,7,0,0,0,,87,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Pedro Silva,7,0,0,0,,23,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Fabian Rauscher,7,0,0,0,,37,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Franco Vairoletti,7,0,0,0,,37,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Demetri Moustakas,7,0,0,0,,154,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Leo Evotec,7,0,0,0,,57,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Adam UCB,7,0,0,0,,10,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sughan Karunakaran,7,0,0,0,,8,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Abhishek Jalan,6,0,0,0,,269,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Heike Schoenherr,6,0,0,0,,6,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Frank Von Delft,6,0,0,0,,113,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Niyaz Zaman,6,0,0,0,,42,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Vladas UCB,6,0,0,0,,14,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jiang Yin,6,0,0,0,,13,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Serena Piticchio,5,0,0,0,,90,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Johannes Karges,5,0,0,0,,22,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Christian Becerra,5,0,0,0,,54,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sam Walpole,5,0,0,0,,114,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jasper Shide,5,0,0,0,,240,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Elena De Vita,5,0,0,0,,0,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Matthew Cottee,5,0,0,0,,30,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Janine Gray,5,0,0,0,,37,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+John Deadman,5,0,0,0,,70,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Romain Lepage,4,0,0,0,,26,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Weixiao Song,4,0,0,0,,62,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Isabel Rozas,4,0,0,0,,43,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Kathleen Frey,4,0,0,0,,18,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Nick Bennett,4,0,0,0,,5,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Namso Redne,4,0,0,0,,7,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+David Teran,4,0,0,0,,67,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Walter Novak,4,0,0,0,,40,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Iftier Rahman,4,0,0,0,,14,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ken Hull,4,0,0,0,,3,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Carlo Matera,4,0,0,0,,25,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Manuel Milla,4,0,0,0,,487,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jack Slater,4,0,0,0,,68,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Rafat Satec,4,0,0,0,,5,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Emmanuel Rugamba Bitega,4,0,0,0,,110,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Clinton Egbe,4,0,0,0,,91,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Rajeshri Karki,4,0,0,0,,19,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Andrew Wabash College,3,0,0,0,,53,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Yiannis Sarigiannis,3,0,0,0,,16,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Makayla Patterson,3,0,0,0,,34,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Guzmán Alvarez,3,0,0,0,,188,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ravi Kurukulasuriya,3,0,0,0,,45,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Scott Walker,3,0,0,0,,45,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Joe HillCousins,3,0,0,0,,17,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Philip Mcgilvray,3,0,0,0,,2,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jasper Kyle Catapang,3,0,0,0,,129,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Pa Fronth Nyhus,3,0,0,0,,651,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Amir Bitran,3,0,0,0,,285,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Steve Mccloskey,3,0,0,0,,16,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Wesley Slaughter,3,0,0,0,,48,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jonathan Turner,3,0,0,0,,92,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Eric Lakomek,3,0,0,0,,21,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sagar Chittori,3,0,0,0,,7,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Madhusudan Verma,3,0,0,0,,14,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Bertalan Juhasz,3,0,0,0,,58,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jigar Paras Sethiya,3,0,0,0,,134,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Paula Andrea Mojica Jiménez,3,0,0,0,,2532,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Cameron Martin,3,0,0,0,,59,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Andrew Harvey,3,0,0,0,,12,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Hunter Bates,3,0,0,0,,51,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jordan Scott,3,0,0,0,,32,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Matthias Bauer,3,0,0,0,,49,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Zach Hogan,3,0,0,0,,213,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Connor Rotterman,3,0,0,0,,16,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Drew Stanton Wabash College,2,0,0,0,,108,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sebastian Schieferdecker,2,0,0,0,,84,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Geraldo Sartori,2,0,0,0,,10,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Bethany Lachele Foley,2,0,0,0,,614,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Andrew Jamison,2,0,0,0,,57,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Austin Chivington,2,0,0,0,,96,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jonathan Ahmet,2,0,0,0,,31,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Zackary Titus,2,0,0,0,,23,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Walter R,2,0,0,0,,38,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Fabian OrozcoLopez,2,0,0,0,,159,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Martin Rees,2,0,0,0,,25,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Michael Medvedev,2,0,0,0,,189,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Victor Lopes Rangel,2,0,0,0,,60,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Dana Ferraris,2,0,0,0,,31,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Kenneth Hull,2,0,0,0,,4,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Anushka Upadhyaya,2,0,0,0,,6,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sunil Kumar Bose,2,0,0,0,,16,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Alessio De Simone,2,0,0,0,,25,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mark Calmiano,2,0,0,0,,15,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mike Lemke,2,0,0,0,,53,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ornella Di Pietro,2,0,0,0,,104,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Laura Posada,2,0,0,0,,1,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Focco Vandenakker,2,0,0,0,,79,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Denis Burton,2,0,0,0,,146,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Rhys Edwards,2,0,0,0,,32,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Max McDaniel College,2,0,0,0,,19,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Abby Gallagher,2,0,0,0,,278,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Alena Villanueva,2,0,0,0,,29,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Cung Nier,2,0,0,0,,132,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Kaylee Holliger,2,0,0,0,,234,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+AMDG U,2,0,0,0,,68,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Nathan Gray,2,0,0,0,,42,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Zachary Kiick,2,0,0,0,,37,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Willard Haunfelder,2,0,0,0,,83,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mackenzie Meyer,2,0,0,0,,63,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Kendall Hanak,2,0,0,0,,62,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mher Matevosyan,1,0,0,0,,2,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mateo Gil Vizcaíno,1,0,0,0,,20,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Tanush Goel,1,0,0,0,,41,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mike Waring,1,0,0,0,,36,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Matt PostEra,1,0,0,0,,9,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Vlad UCB,1,0,0,0,,10,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ritabrata Maiti,1,0,0,0,,41,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mark UCB,1,0,0,0,,8,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Shreyas Srinivasan,1,0,0,0,,19,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ken Lewtas,1,0,0,0,,250,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Prashant Kharkar,1,0,0,0,,93,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Ameya Bendre,1,0,0,0,,42,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Amedeo Caflisch,1,0,0,0,,7,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mike Renier,1,0,0,0,,153,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mark Honey,1,0,0,0,,28,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Albert Antolin,1,0,0,0,,187,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Hans Pfalzgraf,1,0,0,0,,62,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Christian Gampe,1,0,0,0,,206,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Andrew Hutchin,1,0,0,0,,113,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Mallareddy Komandla,1,0,0,0,,27,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Chellam Gayathri Subash,1,0,0,0,,83,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Sam Rowe,1,0,0,0,,38,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+HengKeat Tam,1,0,0,0,,2,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jim Palmer,1,0,0,0,,167,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Gabriel Navarrete Vazquez,1,0,0,0,,72,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Javier University of Alcalá,1,0,0,0,,79,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Naasson Mbenza Mbambi,1,0,0,0,,42,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Hira Khalid,1,0,0,0,,55,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Catarina Esteves,1,0,0,0,,227,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Neal Hayhurst,1,0,0,0,,98,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jame Cole,1,0,0,0,,12,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Adrian Accurso,1,0,0,0,,57,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+vitamin biology,1,0,0,0,,14,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Justin Smith,1,0,0,0,,303,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Suni Nier,1,0,0,0,,67,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Kaleb Wood,1,0,0,0,,16,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Belal AlNajjar,1,0,0,0,,31,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Atul Mahajan,1,0,0,0,,19,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jeffrey Richards,1,0,0,0,,17,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Simone Bigi,1,0,0,0,,227,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Redwan SATEC,1,0,0,0,,44,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Jokin Carillo Arregui,1,0,0,0,,8,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
+Bowen Tang,1,0,0,0,,15,,,0±0%,nan±nan%,0,0,0,0,nan±nan%
