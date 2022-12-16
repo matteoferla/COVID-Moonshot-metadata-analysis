@@ -4,10 +4,37 @@ In the Postera COVID Discorse site users can write a rationale for their submiss
 ![wordcloud.jpg](wordcloud.jpg)
 (wordcloud generated via [wordclouds.com](https://www.wordclouds.com/))
 
-## Columns in file
-> TL;DR: see file moonshot_submissions.min.csv
+## Data cleanup
+> TL;DR: see file [moonshot_submissions.min.csv](moonshot_submissions.min.csv),
+> or [moonshot_submissions.p](moonshot_submissions.p) as imported below.
 
-Keys added:
+The submission info is from the [COVID moonshot submissions github repo](https://github.com/postera-ai/COVID_moonshot_submissions).
+
+Data was cleaned as seen in [data_polishing.ipynb](data_polishing.ipynb).
+
+Import as follows for a clean dataset
+
+```python
+import pandas as pd
+import numpy as np
+
+_m = pd.read_pickle('moonshot_submissions.p')
+
+moonshot = _m.loc[_m.okay][['CID (canonical)','CID_group', 'old_index', 'clean_creator', 'SMILES', 'new_smiles',
+                           'fragments', 'xcode', 'Structure ID', 'xcode','site_name', 'pdb_entry',
+                            'ORDERED', 'MADE', 'ASSAYED', 'in_fragalysis',
+                            'IC50', 'pIC50',
+                           'submission_date', 'inferred_submission_date', 'order_date', 'shipment_date', 
+                           'description', 'initial_screen',
+                           'N_creator_submission', 'N_submission_group', 'resubmitted',
+                           'Enamine - REAL Space', 'Enamine - Extended REAL Space',
+                           'Enamine - SCR', 'Enamine - BB', 'Mcule', 'Mcule Ultimate',
+                           'N_chars', 'N_words', 'N_words_cutoff', 'classified_method', 'flesch',
+                           'dale_chall']]
+
+del _m
+```
+Keys kept in the above:
 
 * 'CID (canonical)': unique indetifier. Submission w/ same structure had same CID. Duplicates were removed —description combined.
 * 'old_index': the order in which they were added in the postera site is kind of sequential
@@ -31,12 +58,26 @@ Keys added:
 * 'N_chars', 'N_words', 'N_words_cutoff'
 * keyword classification: 'classified_method'
 * 'flesch', 'dale_chall': readability indices (>20 words or more)
-* 'okay': keep?
+* 'okay': keep? (removes the cases of submission wherein the website endpoints were used as an API)
 
-## Data polishing
-The submission info is from the [COVID moonshot submissions github repo](https://github.com/postera-ai/COVID_moonshot_submissions).
+### To do
 
-Data was cleaned as seen in [data_polishing.ipynb](data_polishing.ipynb).
+* The `fragments` field is not cleaned. The cleaned version exists, but not integrated.
+* `SMILES`/`new_smiles` does not contain covalents w/ a dummy atom, e.g. `*CC(=O)`. See Fragmenstein for covalents.
+* Add boolean flag for covalents.
+
+## IC50 note
+
+The IC50 used in analysis here is from the fluorescence assay, not the RapidFire mass spectrometry assay.
+
+* substrate: `([5-FAM]-AVLQ↓SGFR-[Lys(Dabcyl)]-K-amide`
+* Assay temp: 25°C
+* Assay Substrate: 375nM
+
+In [Okamoto et al 2010](https://pubmed.ncbi.nlm.nih.gov/21087086/) the rates of SARS-COV-1 MPro were found to be
+0.07±0.001 s-1 and 16±3 µM for 4.4 mM/s.  cf. https://www.brenda-enzymes.org/all_enzymes.php?ecno=3.4.22.69
+Assuming this is similar for SARS-COV-2 MPro, then one could convert the IC50 to a Ki keeping an eye for covalent inhibitors.
+No ITC was performed on any substrate (in an ITC experiment enthalpy is the 'height' of the plot).
 
 ## Methodology
 
@@ -44,22 +85,68 @@ Unfortunately, there was not a category of method,
 say `by-eye using Fragalysis` | `by-eye using other` | `docking of expansions` | `docking of mergers` | `docking of virtual library` | `structure-independent ML` | `other computational`. 
 As a consequence, it is not clear directly what approach was used.
 
-## Caveats
-Furthermore, there was no limit on the amount of submissions a user could submit, but a recommendation to shortlist to make the triaging easier. 
-However, this was blatantly ignored by some users who looked at the HTML ids and triggered ajax requests and made an API to submit thousands of compounds to advertise their software. As a consequence, the raw numbers of term instances does not mean too much. 
+Herein, the classification was:
 
-Submissions were triaged in multiple stages via a variety of methods, generally via multiple docking methods of varying complexity —some very sophisticated.
-I was part of triaging team and used [Fragmenstein](https://github.com/matteoferla/Fragmenstein) to place the molecule close to the stated inspiration —skipping all VLS docking submissions. Furthermore, submissions came at different stages. Therefore, whether a submission was made may be influenced by various factors, such as submission date.
+```python
+import enum, operator
 
-Hence why in the parsed dataset the field `freq_crystallised (of made)` is more important than `freq_crystallised (of total)`.
+class Method(enum.Enum):
+    INITIAL = enum.auto()  # these were possibly poised library — not checked
+    PRIOR_SARS_INHIBITOR = enum.auto()  # original SARS inhibitor
+    MANUAL = enum.auto()
+    MANUAL_POSSIBLY = enum.auto()
+    DOCKING = enum.auto()
+    FEP = enum.auto()
+    UNKNOWN = enum.auto()
 
-## Dataset
-Each submission was done as a set all sharing the same `rationale`. 
-So the table contains multiple rows/submitted compounds per submission. —say the CID `ANT-DIA-3c79be55-1` finishes in `-1`, that means that it is the first of the `ANT-DIA-3c79be55` set.
-Consequently to not get a bias by number of submission for the word-cloud I removed all bar one submission per group.
 
-I merged the "rationale" and "submission notes" columns into one ('words') as many users did not differentiate between the two,
-and some words needed tweaking as found together (eg. 'by-eye').
+def classify(row):
+    """
+    The terms were picked following the classification of 100 or so compounds.
+    """
+    description: str = row.description.lower().str.replace('by eye', 'by-eye')
+    
+    def has_any_term(*terms):
+        return any([term in description for term in terms])
+        
+    # This is an anomaly:
+    if has_any_term('missing fragalysis structures',
+                    'first batch of fragments so we have a moonshot cid for them',
+                    'fragment that was missing an id not a design but a frament',
+                   'second batch of submissions of fragments in order to generate moonshot cid',
+                   'final set of fragments so we can generate moonshot cid'):
+        return Method.UNKNOWN
+    # SARS the original
+    if has_any_term('sars inhibitor'):
+        return Method.PRIOR_SARS_INHIBITOR
+    # this might trip on words with fep in them like mifepristone ...
+    if has_any_term('fep'):
+        return Method.FEP
+    # Docking
+    if has_any_term('dock', 'seesar', 'vina', 'autodock', 'screen', 'drug-hunter', 'search'):
+        return Method.DOCKING
+    # This has to come after docking as many compounds were docked and best were picked by-eye
+    if has_any_term('by-eye', 'merg', 'link', 'coupl'):
+        return Method.MANUAL
+    # These are very loose....
+    if has_any_term('swap', 'racem', 'side product', 'intermediate', 'break',
+                    'bioisoster', 'isomer', 'around', 'replace', 'isomer', 'enantiomer',
+                    'introduction', 'substitution', 'shifted', 'combo',
+                    'expansion', 'made by', 'design', 'idea', 'based', 'pairs',
+                    'modification', 'derivative', 'common sense', 'suggested',
+                    'similar to', 'analogues', 'easy to make', 'exploration', 'inspir', 'possible'):
+        return Method.MANUAL_POSSIBLY
+    if len(row.description) > 200:
+        return Method.MANUAL_POSSIBLY 
+    if row.fragments != 'x0072':  # the user is specifying compounds, whereas in blind docking this does not happen
+        return Method.MANUAL_POSSIBLY
+    return Method.UNKNOWN
+    
+classified = moonshot.apply(classify, axis=1)
+moonshot['classified_method'] = classified.apply(operator.attrgetter('name'))
+```
+A fix was then done for the `moonshot.site_name.str.contains('XChem Screen')` compounds.
+See
 
 ## Word cloud
 
@@ -69,55 +156,5 @@ Along with a few more words that were not in the list but were common in the sub
 while 'molecule', 'machine', 'dock', 'learn' were removed from the blacklist as they are important in the context of the submissions.
 
 Additionally, grammatical inflections were collapsed albeit crudely.
-
-## Keyword based logical categorisation
-
-> See [categorisation notebook](initial_results/categorisation.ipynb)
-
-I used a keyword based approach to categorise the submissions.
-This is as expected very very crude as the only word to go by for some,
-such as `manual_possibly` was the present of the words such as isoform or
-simply verbosity.
-The GitHub data is not undated (contains only 311 structures out of 500+)
-and lacks a submission timestamp.
-However, the order date can help to infer the wave the structures belong to.
-
-![time](initial_results/time_distribution.png)
-
-This is important because the latter waves are elaborations,
-so not relevant to the initial categorisation.
-Here is across the whole of time (not just the first wave, ie. misleading).
-
-|                 |   total |   ordered |   made |   crystallised |   crystal-over-made% |
-|:----------------|--------:|----------:|-------:|---------------:|---------------------:|
-| initial         |      99 |        93 |     93 |             49 |                   52 |
-| old             |      44 |        17 |     14 |              4 |                   28 |
-| manual          |    2757 |       314 |    226 |             44 |                   19 |
-| manual_possibly |   10328 |      3080 |   2523 |            129 |                    5 |
-| docking         |    7566 |       691 |    568 |             76 |                   13 |
-| fep             |     175 |       100 |     55 |              9 |                   16 |
-| unknown         |      28 |        19 |     17 |              0 |                    0 |
-| total           |   20997 |      4314 |   3496 |            311 |                    8 |
-
-While this is the first wave (ordered before 1st June 2020):
-
-|                 |   total |   ordered |   made |   crystallised |   crystal-over-made% |
-|:----------------|--------:|----------:|-------:|---------------:|---------------------:|
-| initial         |       5 |         5 |      5 |              0 |                    0 |
-| old             |      17 |        17 |     14 |              4 |                   28 |
-| manual          |     164 |       164 |    102 |             26 |                   25 |
-| manual_possibly |     314 |       314 |    205 |             46 |                   22 |
-| docking         |     439 |       439 |    349 |             62 |                   17 |
-| fep             |       1 |         1 |      1 |              1 |                  100 |
-| unknown         |       6 |         6 |      5 |              0 |                    0 |
-| total           |     946 |       946 |    681 |            139 |                   20 |
-
-* `old` are compounds reported to work for proteases of SARS
-* `manual` is an elaboration, merger, expansion, replacement, linker, that was not necessary done manually but not by docking
-* `manual_possibly` is the same but with more ambiguity
-* `docking` is a docking submission
-* `fep` is a free energy perturbation submission (John Chodera's group)
-
-
 
 
