@@ -1,7 +1,7 @@
 # Analysis of COVID Moonshot
 In the Postera COVID Discorse site users can write a rationale for their submission: this is quick check of what they said.
 
-![wordcloud.jpg](wordcloud.jpg)
+![wordcloud.jpg](images/wordcloud.jpg)
 (wordcloud generated via [wordclouds.com](https://www.wordclouds.com/))
 
 ![unique-submitters.png](images/unique-submitters.png)
