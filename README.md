@@ -101,5 +101,3 @@ Along with a few more words that were not in the list but were common in the sub
 while 'molecule', 'machine', 'dock', 'learn' were removed from the blacklist as they are important in the context of the submissions.
 
 Additionally, grammatical inflections were collapsed albeit crudely.
-
-
