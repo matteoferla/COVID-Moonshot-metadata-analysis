@@ -76,6 +76,7 @@ The IC50 used in analysis here is from the fluorescence assay, not the RapidFire
 * substrate: `([5-FAM]-AVLQ↓SGFR-[Lys(Dabcyl)]-K-amide`
 * Assay temp: 25°C
 * Assay Substrate: 375nM
+* Substrate Michaelis constant: 9.5 µM
 
 In [Okamoto et al 2010](https://pubmed.ncbi.nlm.nih.gov/21087086/) the rates of SARS-COV-1 MPro were found to be
 0.07±0.001 s-1 and 16±3 µM for 4.4 mM/s.  cf. https://www.brenda-enzymes.org/all_enzymes.php?ecno=3.4.22.69
