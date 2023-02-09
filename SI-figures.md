@@ -42,7 +42,7 @@ Soaking vs. pIC50
 
 ## Method used
 
-...
+![methodology_vio.jpg](methodology_vio.jpg)
 
 This is not a catalogue vs. generative difference as Fragalysis would fall under hypothesis driven.
 
