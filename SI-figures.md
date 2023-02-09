@@ -36,11 +36,20 @@ The 25 worse compounds by SAScore are 7.0 or higher, but 11 are JSME doodles by 
 
 Soaking vs. pIC50
 
-!!!!!
+![images/soak-pIC50.jpg](images/soak-pIC50.jpg)
 
-* placement: SI Figure?
+Compounds that presented density after soaking and pIC50 do not show a strong cutoff.
+In the case of compounds w / low potency & discernible density these may bind outside of the pocket. The `site_name` is not informative,
+and ought to be generated from the structures as opposed to being predicted.
+Some compounds w/ high potency and no density may be experimental errors, but the soak.csv does not seem to be constructive.
+The soak.csv must be only for a subset that did soak eventually as the success rate is way to high: [images/incomplete_soak.jpg](images/incomplete_soak.jpg)
+
+Assuming everything was soaked is incorrect as plotting presence in Fragalysis and pIC50 shows that
+in the distributions start to shift with time: [images/incomplete_soak2.jpg](images/incomplete_soak2.jpg)
+Possibly replicates were not repeated if poor pIC50?
+
+* placement: STOP
 * Notebook: [soaks.ipynb](soaks.ipynb)
-* to-do: Repeat with Postera Manifold
 
 ## Wordcloud
 
