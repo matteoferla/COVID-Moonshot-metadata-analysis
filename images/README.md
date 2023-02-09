@@ -1,6 +1,8 @@
 ## Figures
 
-The file [ai](figures.ai) is to make the following figures:
+THIS IS NO LONGER VALID.
+
+The file [ai](figures.ai) was to make the following figures:
 
 ![figure-01](figures-01.png)
 
