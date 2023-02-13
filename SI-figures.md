@@ -1,20 +1,26 @@
 ## Ingroup vs. outgroup
 
-![images/core-v-comm_vio2020.jpg](images/core-v-comm_vio2020.jpg)
+![core vs community Covid Moonshot](images/core-v-comm_vio2020.jpg)
 
-Starting from April 2020 (calendar Q2), ordered compounds were being tested.
+Labelled ([AI file](images/images/core-v-comm.png)):
+
+![core vs community Covid Moonshot](images/core-v-comm.png)
+
+Potency of compounds synthesised in 2020 grouped by designed from either core team or community submissions,
+with insets of the top three chloroacetamide structures (left) and non-covalevent structures (right).
+
+Further details: Starting from April 2020 (calendar Q2), ordered compounds were being tested.
 The membership to the core group was fluid and grew with time, 
 herein presence on the main discussion group (Slack workspace) was used.
 The names from the submissions were polished as described in readme.
 
-* placement: Fig 1 bumping 1D
 * to-do: export as SVG and add key compounds (e.g. Tryfon's) in illustrator.
 * Notebook: [core-v-comm.ipynb](core-v-comm.ipynb)
 * See also:  [Scatter plot form](images/core-v-comm_distro.jpg)
 
 ## Risk of crowd-sourcing
 
-![images/SAScore_corevcomm_histo.jpg](images/SAScore_corevcomm_histo.jpg)
+![SAScore core vs community Covid Moonshot](images/SAScore_corevcomm_histo.jpg)
 
 Crowd sourced submissions are as synthetic accessibility as opposed to being molecules drawn by kindergarteners.
 In the spring 2020 submissions, the crowd-sourced submissions are 23.8% (mean not median! todo fix) from catalogues, which is par with the core submissions (25.5%).
@@ -22,7 +28,6 @@ As expected the more the lead develops the worse its SAScore is expected to be: 
 
 Original SAScore (Something like Earlt 2009) not Postera Manifold FastSAScore was used as the latter becomes discrete above point-three-something with steps at 0.4, 0.6, 0.8. Plus I did not want burn the group's daily usage allowance.
 
-* placement: Fig 1 bumping 1D
 * Notebook: [SAScore.ipynb](SAScore.ipynb)
 * to-do: Repeat with Postera Manifold
 
@@ -48,7 +53,7 @@ Assuming everything was soaked is incorrect as plotting presence in Fragalysis a
 in the distributions start to shift with time: [images/incomplete_soak2.jpg](images/incomplete_soak2.jpg)
 Possibly replicates were not repeated if poor pIC50?
 
-* placement: STOP
+* Disregard
 * Notebook: [soaks.ipynb](soaks.ipynb)
 
 ## Wordcloud
@@ -58,7 +63,6 @@ Possibly replicates were not repeated if poor pIC50?
 Rocket form [wordcloud.jpg](images/wordcloud.jpg)
 Molcloud [molcloud.png](images/molcloud.png)
 
-* placement: SI Figure
 * Notebook: ???
 * to-do: Nothing
 
@@ -68,8 +72,22 @@ Molcloud [molcloud.png](images/molcloud.png)
 
 This is not a catalogue vs. generative difference as Fragalysis would fall under hypothesis driven.
 
+## Footnote
+
+Janke's colours:
+
+* <span style='color: #FD8A8A'>█ #FD8A8A</span>
+* <span style='color: #F1F7B5'>█ #F1F7B5</span>
+* <span style='color: #A8D1D1'>█ #A8D1D1</span>
+* <span style='color: #9EA1D4'>█ #9EA1D4</span>
+
 
 ## Disregarded
 
 * The relationship between wordiness / readability and pIC50 is intriguing but is user dependent.
 * Probably of being made is problematic and highly complicated
+
+The wordiness is user dependent and core members were less wordy in the submissions,
+presumably because the discussion was carried out outside of the submission form.
+
+![images/core-v-comm_words.jpg](images/core-v-comm_words.jpg)
