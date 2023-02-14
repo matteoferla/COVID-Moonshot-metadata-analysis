@@ -4,7 +4,7 @@
 
 Labelled ([AI file](images/images/core-v-comm.png)):
 
-![core vs community Covid Moonshot](images/core-v-comm.png)
+![core vs community Covid Moonshot](images/core-v-comm-02.png)
 
 Potency of compounds synthesised in 2020 grouped by designed from either core team or community submissions,
 with insets of the top three chloroacetamide structures (left) and non-covalevent structures (right).
@@ -70,7 +70,11 @@ Molcloud [molcloud.png](images/molcloud.png)
 
 ![methodology_vio.jpg](methodology_vio.jpg)
 
-This is not a catalogue vs. generative difference as Fragalysis would fall under hypothesis driven.
+This is not a catalogue vs. generative difference as Fragalysis would fall under hypothesis driven yet is catalogue-based.
+
+It should be noted that the biggest difference is in covalent vs. non-covalent:
+![covalent](images/methodology_covalent.png)
+Namely, the community was let narrowly focused on covalent compounds than the core team, especially for hypothesis-driven compounds.
 
 ## Footnote
 
