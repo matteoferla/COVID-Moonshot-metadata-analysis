@@ -20,13 +20,22 @@ The names from the submissions were polished as described in readme.
 
 ## Risk of crowd-sourcing
 
-![SAScore core vs community Covid Moonshot](images/SAScore_corevcomm_histo.jpg)
+Postera number of steps is more reliable than SAScore as the latter sees natural products as non-drug-like.
 
-Crowd sourced submissions are as synthetic accessibility as opposed to being molecules drawn by kindergarteners.
-In the spring 2020 submissions, the crowd-sourced submissions are 23.8% (mean not median! todo fix) from catalogues, which is par with the core submissions (25.5%).
+![N steps](images/Q2-steps.jpg)
+
+![SAScore](images/Q2-SA.jpg)
+
+Crowd sourced submissions are as synthetically achievable as opposed to being molecules drawn by kindergarteners.
+In the spring 2020 submissions, the crowd-sourced submissions half have a SA score lower than 17%, which is close to the core submissions (median 13%, MAD: 10% and 11%, counts: 3919 and 1801 —data from first 5_000).
+
+Steps is more sensible that SAScore due to natural products. The 25 worse compounds by SAScore are 7.0 or higher, but 11 are JSME doodles by kindergarteners, while the rest are natural products. This includes `FRA-DIA-6d2bfd8c-1`, invermectin by Frank.
+
+![SAScore vs N steps](images/SAScore-steps.jpg)
+
 As expected the more the lead develops the worse its SAScore is expected to be: [SAScore_corevcomm_vio.jpg](images/SAScore_corevcomm_vio.jpg)
 
-Original SAScore (Something like Earlt 2009) not Postera Manifold FastSAScore was used as the latter becomes discrete above point-three-something with steps at 0.4, 0.6, 0.8. Plus I did not want burn the group's daily usage allowance.
+Old figure using Earlt '09 SAScore [SAScore core vs community Covid Moonshot](images/SAScore_corevcomm_histo.jpg)
 
 * Notebook: [SAScore.ipynb](SAScore.ipynb)
 * to-do: Repeat with Postera Manifold
@@ -34,8 +43,7 @@ Original SAScore (Something like Earlt 2009) not Postera Manifold FastSAScore wa
 ### Comedy entries
 
 This is no longer a valid point given the above.
-Furthermore, this is an indictment of the issue with SAScore, which is known to be crude.
-The 25 worse compounds by SAScore are 7.0 or higher, but 11 are JSME doodles by kindergarteners, while the rest are natural products. This includes `FRA-DIA-6d2bfd8c-1`, invermectin by Frank.
+
 
 ## Multi-approach
 
