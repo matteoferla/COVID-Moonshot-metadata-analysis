@@ -103,3 +103,8 @@ The wordiness is user dependent and core members were less wordy in the submissi
 presumably because the discussion was carried out outside of the submission form.
 
 ![images/core-v-comm_words.jpg](images/core-v-comm_words.jpg)
+
+UMap of compounds by Tanimoto similarity on Morgan fingerpro
+
+The number of synthetic steps does not affect the fingerprints [steps](images/dim-red-alt4.jpg)
+
